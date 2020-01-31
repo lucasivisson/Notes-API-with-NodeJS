@@ -17,7 +17,7 @@ API created with express and a few more development tools
 + [Body-Parser](https://www.npmjs.com/package/body-parser)
 
 ## Starting
-1. Clone this repo using (https://github.com/lucasivisson/API-Notes-with-NodeJS)
+1. Clone this repo using git clone https://github.com/lucasivisson/API-Notes-with-NodeJS
 2. Run npm to install dependencies
 3. Run node server.js to run the servers at http://localhost:3000/notes
 
