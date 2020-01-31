@@ -1,6 +1,9 @@
 # Notes API with NodeJS
 Develop an API using javascript and nodejs
 
+## What is this project?
+This project is a CRUD (Create, Read, Update, Delete) annotations.
+
 ## Why do that?
 I made this application in order to train myself in NodeJS
 
