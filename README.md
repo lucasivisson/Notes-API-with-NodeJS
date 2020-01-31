@@ -12,9 +12,9 @@ API created with express and a few more development tools
 + **Mongoose** - An ORM that allows you to work with MongoDB using nodejs
 
 ## Dependencies
-[NodeJS](https://nodejs.org/en/)  
-[NPM](https://www.npmjs.com/get-npm)  
-[Body-Parser](https://www.npmjs.com/package/body-parser)
++ [NodeJS](https://nodejs.org/en/)  
++ [NPM](https://www.npmjs.com/get-npm)  
++ [Body-Parser](https://www.npmjs.com/package/body-parser)
 
 ## Starting
 1. Clone this repo using (https://github.com/lucasivisson/API-Notes-with-NodeJS)
